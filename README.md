@@ -1,2 +1,2 @@
 # hi
-hello all
+hello all i am new to this coding
